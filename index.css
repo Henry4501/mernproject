@@ -28,3 +28,9 @@ h1 {
     text-decoration: none;
 
 }
+
+.inputclass {
+    padding: 10px;
+    margin: 20px;
+    width: 200px;
+}
